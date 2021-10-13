@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DetailTech
+- 👀 I’m interested in everything TECH! Networks primarily, but any type of automation or virtualization, IOT and machine learning are super exciting!
+- 🌱 I’m currently learning about Risk, Cloud Architecture, and Machine Learning.
